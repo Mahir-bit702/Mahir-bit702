@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="title"><title id="title">Mahir Faisal — Aspiring SOC Analyst. Cybersecurity at APU. Investigate. Understand. Defend.</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101c"/><stop offset=".5" stop-color="#07151b"/><stop offset="1" stop-color="#0c1224"/></linearGradient><radialGradient id="aura" cx=".8" cy=".15" r=".8"><stop stop-color="#5bffb3" stop-opacity=".17"/><stop offset="1" stop-color="#5bffb3" stop-opacity="0"/></radialGradient><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#5bffb3" stop-opacity=".8"/><stop offset=".55" stop-color="#62dfff" stop-opacity=".25"/><stop offset="1" stop-color="#bca0ff" stop-opacity=".5"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#78adc7" stroke-width=".55" opacity=".22" fill="none"/></pattern><filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="16"/></filter><clipPath id="clip"><rect x="1" y="1" width="998" height="999" rx="22"/></clipPath></defs><style>.float{animation:float 7s ease-in-out infinite}.pulse{animation:pulse 5s ease-in-out infinite}.trace{stroke-dasharray:12 160;animation:trace 12s linear infinite}@keyframes float{50%{transform:translateY(-5px)}}@keyframes pulse{50%{opacity:.45}}@keyframes trace{to{stroke-dashoffset:-344}}@media(prefers-reduced-motion:reduce){.float,.pulse,.trace{animation:none}}</style><rect x="1" y="1" width="998" height="458" rx="22" fill="url(#bg)" stroke="url(#edge)" /><rect x="2" y="2" width="996" height="456" rx="21" fill="url(#aura)" stroke="none" />
+<rect x="2" y="2" width="996" height="456" rx="21" fill="url(#grid)" opacity=".55"/>
+<path d="M520 458L835 72L998 181V458Z" fill="#385976" opacity=".035"/>
+<path d="M569 458L883 75M616 458L928 75M663 458L973 75" stroke="#77c6e5" opacity=".07"/>
+<circle cx="30" cy="30" r="4" fill="#ff7f8b" /><circle cx="46" cy="30" r="4" fill="#ffd18b" /><circle cx="62" cy="30" r="4" fill="#5bffb3" /><text x="94" y="34" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#a6b9c8" >mahir / security-portfolio</text><text x="965" y="34" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#62dfff" text-anchor="end">@Mahir-bit702</text>
+<path d="M24 54L976 54" fill="none" stroke="#355062" />
+<rect x="42" y="80" width="205" height="28" rx="7" fill="#5bffb312" stroke="#5bffb366" /><text x="144.5" y="98" font-family="Consolas,'Liberation Mono',monospace" font-size="11" fill="#5bffb3" text-anchor="middle">CYBERSECURITY / APU</text>
+<text x="40" y="191" font-family="Arial,Helvetica,sans-serif" font-size="92" fill="#f2f8ff" font-weight="900" letter-spacing="-4">MAHIR</text>
+<text x="40" y="287" font-family="Arial,Helvetica,sans-serif" font-size="100" fill="#5bffb3" font-weight="900" letter-spacing="-4">FAISAL</text>
+<text x="44" y="334" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#f2f8ff" font-weight="500">Aspiring SOC Analyst</text>
+<text x="44" y="367" font-family="Consolas,'Liberation Mono',monospace" font-size="15" fill="#a6b9c8" >Investigate. Understand. Defend.</text>
+<path d="M44 391L525 391" fill="none" stroke="#203746" />
+<rect x="44" y="408" width="144" height="28" rx="7" fill="#5bffb312" stroke="#5bffb366" /><text x="116" y="426" font-family="Consolas,'Liberation Mono',monospace" font-size="11" fill="#5bffb3" text-anchor="middle">DETECTION</text><rect x="200" y="408" width="168" height="28" rx="7" fill="#62dfff12" stroke="#62dfff66" /><text x="284" y="426" font-family="Consolas,'Liberation Mono',monospace" font-size="11" fill="#62dfff" text-anchor="middle">DIGITAL FORENSICS</text><rect x="380" y="408" width="84" height="28" rx="7" fill="#bca0ff12" stroke="#bca0ff66" /><text x="422" y="426" font-family="Consolas,'Liberation Mono',monospace" font-size="11" fill="#bca0ff" text-anchor="middle">CTFs</text>
+<circle cx="763" cy="233" r="158" fill="#62dfff" opacity=".05" filter="url(#softGlow)"/>
+<ellipse cx="763" cy="371" rx="103" ry="13" fill="#5bffb3" opacity=".1" filter="url(#softGlow)"/>
+<g class="float">
+<circle cx="763" cy="231" r="139" fill="none" stroke="#315365" stroke-dasharray="1 9"/>
+<circle cx="763" cy="231" r="120" fill="none" stroke="#5bffb3" opacity=".27"/>
+<path d="M643 231A120 120 0 0 1 763 111" stroke="#5bffb3" stroke-width="3" fill="none" filter="url(#glow)"/>
+<path d="M883 231A120 120 0 0 1 763 351" stroke="#62dfff" stroke-width="3" fill="none" filter="url(#glow)"/>
+<path d="M600 148V126H622M904 126H926V148M600 314V336H622M904 336H926V314" stroke="#62dfff" opacity=".65" fill="none" stroke-width="2"/>
+<path d="M634 232H892M763 99V363" stroke="#62dfff" opacity=".12"/>
+<path d="M763 142L834 169V229C834 273 803 303 763 322C723 303 692 273 692 229V169Z" fill="#0b2630" stroke="#62dfff" opacity=".45"/>
+<path d="M755 130L826 157V217C826 261 795 291 755 310C715 291 684 261 684 217V157Z" fill="#082020" stroke="#5bffb3" stroke-width="2"/>
+<path d="M755 144L813 166V216C813 252 788 278 755 294C722 278 697 252 697 216V166Z" fill="#0c1b28" stroke="#377b76"/>
+<path d="M755 144L813 166V216C813 252 788 278 755 294C722 278 697 252 697 216V166Z" class="trace" fill="none" stroke="#62dfff" stroke-width="3" filter="url(#glow)"/>
+<text x="755" y="244" font-family="Consolas,'Liberation Mono',monospace" font-size="61" fill="#5bffb3" font-weight="700" text-anchor="middle" filter="url(#glow)">&gt;_</text>
+<circle cx="645" cy="195" r="4" fill="#5bffb3" class="pulse" filter="url(#glow)"/><circle cx="865" cy="286" r="4" fill="#62dfff" class="pulse" filter="url(#glow)"/>
+</g>
+<rect x="624" y="383" width="278" height="45" rx="10" fill="#0a1a24" stroke="#315869" /><circle cx="645" cy="405" r="4" fill="#5bffb3" /><text x="662" y="410" font-family="Consolas,'Liberation Mono',monospace" font-size="14" fill="#f2f8ff" letter-spacing="2">SIGNAL &gt; NOISE</text>
+<text x="948" y="432" font-family="Consolas,'Liberation Mono',monospace" font-size="10" fill="#728b9c" text-anchor="end">MF / 01</text>
+</svg>
