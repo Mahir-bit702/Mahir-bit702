@@ -1,32 +1,36 @@
-<!-- GitHub-compatible HTML with self-contained, accessible SVG artwork. -->
+<!-- Evidence Lab: an original visual identity for Mahir Faisal, with self-contained accessible SVG artwork. -->
 <div align="center">
-  <img src="./assets/signal/hero.svg" width="100%" alt="Mahir Faisal — Aspiring SOC Analyst. Cybersecurity at APU. Investigate. Understand. Defend." />
+  <img src="./assets/identity/hero.svg" width="100%" alt="Mahir Faisal — The Evidence Lab. Aspiring SOC Analyst. Follow the signal." />
   <br /><br />
-  <a href="https://github.com/Mahir-bit702"><img src="./assets/signal/github.svg" height="46" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/mahir-faisal-a0439a343/"><img src="./assets/signal/linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Mahir-bit702?tab=repositories"><img src="./assets/signal/projects.svg" height="46" alt="Browse my repositories" /></a>
-  <a href="https://www.credly.com/users/mahir-faisal.6c52c5e1/badges/credly"><img src="./assets/signal/credentials.svg" height="46" alt="View my verified public badges on Credly" /></a>
+  <a href="https://github.com/Mahir-bit702"><img src="./assets/identity/github.svg" height="46" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/mahir-faisal-a0439a343/"><img src="./assets/identity/linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Mahir-bit702?tab=repositories"><img src="./assets/identity/projects.svg" height="46" alt="Browse my repositories" /></a>
+  <a href="https://www.credly.com/users/mahir-faisal.6c52c5e1/badges/credly"><img src="./assets/identity/credentials.svg" height="46" alt="View my verified public badges on Credly" /></a>
 </div>
 
 ## `01 / whoami`
 
-<img src="./assets/signal/about.svg" width="100%" alt="Mahir Faisal, Computer Science (Cybersecurity) student at Asia Pacific University, aspiring SOC Analyst. Focus: detection and digital forensics, backed by networking and Linux labs." />
+<img src="./assets/identity/about.svg" width="100%" alt="Mahir Faisal, Computer Science (Cybersecurity) student at Asia Pacific University, aspiring SOC Analyst. Focus: detection and digital forensics, backed by networking and Linux labs." />
 
-I'm a **Computer Science student specializing in Cybersecurity at APU**, working toward a career as a **SOC Analyst**. I investigate security evidence, study how attacks work, and build tools that make incidents easier to understand.
+I'm **Mahir Faisal**, a **Computer Science student specializing in Cybersecurity at APU** and an aspiring **SOC Analyst**. Welcome to my **Evidence Lab**: a portfolio of security projects, CTF experiments, and practical tools.
+
+I'm interested in security work that can be explained. **AuthWatch** brings that focus together through authentication monitoring, explainable detections, and incident storytelling.
+
+<img src="./assets/identity/approach.svg" width="100%" alt="My working loop: observe the evidence, understand the pattern, build a useful tool, and document what matters." />
 
 ## `02 / selected work`
 
 <a href="https://github.com/Mahir-bit702/authwatch">
-  <img src="./assets/signal/authwatch.svg" width="100%" alt="AuthWatch — Incident Cinema. Local Windows authentication monitoring, explainable detections, MITRE ATT&amp;CK context, incident replay and evidence export. View repository. Illustrative interface concept." />
+  <img src="./assets/identity/authwatch.svg" width="100%" alt="AuthWatch — Incident Cinema. Local Windows authentication monitoring, explainable detections, MITRE ATT&amp;CK context, incident replay and evidence export. View repository. Illustrative interface concept." />
 </a>
 
 <p align="center">
-  <a href="https://github.com/Mahir-bit702/intelligent-recruiter"><img src="./assets/signal/recruiter.svg" width="49%" alt="Intelligent Recruiter — four-stage AI recruitment prototype. Lead developer at AI Marathon 2026. React, JavaScript and LLMs. Illustrative pipeline." /></a>
-  <a href="https://github.com/Mahir-bit702/terra-climate-action-tracker"><img src="./assets/signal/terra.svg" width="49%" alt="Terra Climate Action Tracker — emissions baselines into measurable 90-day climate action plans. Python, FastAPI and Agents SDK. Illustrative planning concept." /></a>
+  <a href="https://github.com/Mahir-bit702/intelligent-recruiter"><img src="./assets/identity/recruiter.svg" width="49%" alt="Intelligent Recruiter — four-stage AI recruitment prototype. Lead developer at AI Marathon 2026. React, JavaScript and LLMs. Illustrative pipeline." /></a>
+  <a href="https://github.com/Mahir-bit702/terra-climate-action-tracker"><img src="./assets/identity/terra.svg" width="49%" alt="Terra Climate Action Tracker — emissions baselines into measurable 90-day climate action plans. Python, FastAPI and Agents SDK. Illustrative planning concept." /></a>
 </p>
 
 <a href="https://github.com/Mahir-bit702/campus-escrow-app">
-  <img src="./assets/signal/vault.svg" width="100%" alt="Vault — campus marketplace escrow prototype with a React interface and Sui Move contract. TypeScript, React and Move. View source and current scope. Conceptual escrow flow." />
+  <img src="./assets/identity/vault.svg" width="100%" alt="Vault — campus marketplace escrow prototype with a React interface and Sui Move contract. TypeScript, React and Move. View source and current scope. Conceptual escrow flow." />
 </a>
 
 <details>
@@ -41,14 +45,14 @@ I'm a **Computer Science student specializing in Cybersecurity at APU**, working
 
 ## `03 / toolkit`
 
-<img src="./assets/signal/toolkit.svg" width="100%" alt="Security: authentication logs, incident analysis, MITRE ATT&amp;CK, digital forensics and vulnerability assessment. Networking: Cisco Packet Tracer, OSPF, HSRP, EtherChannel, VLANs, VLSM, DHCP and wireless. Linux: Rocky Linux, Ubuntu, VirtualBox, BIND, Apache, Postfix and Dovecot. Development: Python, JavaScript, TypeScript, React, FastAPI, SQL/PostgreSQL, Git and GitHub Actions." />
+<img src="./assets/identity/toolkit.svg" width="100%" alt="Security: authentication logs, incident analysis, MITRE ATT&amp;CK, digital forensics and vulnerability assessment. Networking: Cisco Packet Tracer, OSPF, HSRP, EtherChannel, VLANs, VLSM, DHCP and wireless. Linux: Rocky Linux, Ubuntu, VirtualBox, BIND, Apache, Postfix and Dovecot. Development: Python, JavaScript, TypeScript, React, FastAPI, SQL/PostgreSQL, Git and GitHub Actions." />
 
 Security tools in my learning path: **Kali Linux · Nmap · Wireshark · Burp Suite · Volatility**.
 
 ## `04 / credentials & training`
 
 <a href="https://www.credly.com/users/mahir-faisal.6c52c5e1/badges/credly">
-  <img src="./assets/signal/credentials-panel.svg" width="100%" alt="Selected public credentials: Fortinet Certified Fundamentals Cybersecurity; Cisco Ethical Hacker, Endpoint Security and CCNA ITN/SRWE course badges; Red Hat RH124/RH134 and OpenShift DO180 academy training; AWS Academy Cloud Foundations, Data Engineering, Cloud Architecting and Generative AI Foundations training badges." />
+  <img src="./assets/identity/credentials-panel.svg" width="100%" alt="Selected public credentials: Fortinet Certified Fundamentals Cybersecurity; Cisco Ethical Hacker, Endpoint Security and CCNA ITN/SRWE course badges; Red Hat RH124/RH134 and OpenShift DO180 academy training; AWS Academy Cloud Foundations, Data Engineering, Cloud Architecting and Generative AI Foundations training badges." />
 </a>
 
 <details>
@@ -69,7 +73,7 @@ Security tools in my learning path: **Kali Linux · Nmap · Wireshark · Burp Su
 
 ## `05 / CTFs & labs`
 
-<img src="./assets/signal/ctf.svg" width="100%" alt="CTF and lab experience: PUTCyberDays CTF 2026, RSA challenge work with Python and gmpy2, digital forensics, memory analysis, RCCE Level 2 labs, Cisco enterprise networking and Linux server administration." />
+<img src="./assets/identity/ctf.svg" width="100%" alt="CTF and lab experience: PUTCyberDays CTF 2026, RSA challenge work with Python and gmpy2, digital forensics, memory analysis, RCCE Level 2 labs, Cisco enterprise networking and Linux server administration." />
 
 <details>
 <summary><strong>Open the lab notebook</strong></summary>
@@ -83,11 +87,11 @@ Security tools in my learning path: **Kali Linux · Nmap · Wireshark · Burp Su
 
 <br />
 
-<a href="https://github.com/Mahir-bit702?tab=repositories"><img src="./assets/signal/activity.svg" width="100%" alt="Portfolio snapshot, October 2026: 4 project repositories, 3 primary languages, security and AI." /></a>
+<a href="https://github.com/Mahir-bit702?tab=repositories"><img src="./assets/identity/activity.svg" width="100%" alt="Portfolio snapshot, October 2026: 4 project repositories, 3 primary languages, security and AI." /></a>
 
 [Explore my repositories](https://github.com/Mahir-bit702?tab=repositories) · [See my contribution activity](https://github.com/Mahir-bit702#js-contribution-activity-description)
 
-<a href="https://www.linkedin.com/in/mahir-faisal-a0439a343/"><img src="./assets/signal/footer.svg" width="100%" alt="Built on curiosity. Let's connect. Cybersecurity, CTFs, and practical tools. Connect on LinkedIn." /></a>
+<a href="https://www.linkedin.com/in/mahir-faisal-a0439a343/"><img src="./assets/identity/footer.svg" width="100%" alt="Mahir's Evidence Lab. Follow the signal. Let's connect. Cybersecurity, CTFs, and practical tools. Connect on LinkedIn." /></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahir-faisal-a0439a343/">LinkedIn</a> &nbsp; / &nbsp;
